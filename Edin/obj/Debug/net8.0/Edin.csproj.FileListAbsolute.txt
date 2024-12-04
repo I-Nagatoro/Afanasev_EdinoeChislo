@@ -1,0 +1,14 @@
+C:\Users\sokol\source\repos\Edin\Edin\bin\Debug\net8.0\Edin.exe
+C:\Users\sokol\source\repos\Edin\Edin\bin\Debug\net8.0\Edin.deps.json
+C:\Users\sokol\source\repos\Edin\Edin\bin\Debug\net8.0\Edin.runtimeconfig.json
+C:\Users\sokol\source\repos\Edin\Edin\bin\Debug\net8.0\Edin.dll
+C:\Users\sokol\source\repos\Edin\Edin\bin\Debug\net8.0\Edin.pdb
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.AssemblyInfo.cs
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.dll
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\refint\Edin.dll
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.pdb
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\Edin.genruntimeconfig.cache
+C:\Users\sokol\source\repos\Edin\Edin\obj\Debug\net8.0\ref\Edin.dll
